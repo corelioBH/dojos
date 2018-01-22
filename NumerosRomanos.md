@@ -16,7 +16,9 @@ Um número menor antes de um maior indica subtração, e depois indica adição.
 | 500 | D | CD é 400, CDL é 450, CDXCI é 491, DXLIX é 549 |
 |  1000 | M | CM é 900, CMLXIX é 969, MXIV é 1014, MCDV é 1405 |
 
-Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 100 e faça a conversão do mesmo para algarismo numérico.
+**Exercício 01**
+
+Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 10 e faça a conversão do mesmo para algarismo numérico.
 
 Requisitos:
  - Nomes significativos
@@ -25,7 +27,8 @@ Requisitos:
  - Formatação
  - Tratamento de erros  
 
+** Exercicio 02 - Avançado**
 
-
+Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 1000 e faça a conversão do mesmo para algarismo numérico.
 
 
