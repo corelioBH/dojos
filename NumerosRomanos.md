@@ -18,7 +18,7 @@ Um número menor antes de um maior indica subtração, e depois indica adição.
 
 **Exercício 01 - Básico**
 
-Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 10 e faça a conversão do mesmo para algarismo numérico.
+Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 10 e faça a conversão do mesmo para algarismo romano.
 
 Requisitos:
  - Nomes significativos
@@ -29,6 +29,6 @@ Requisitos:
 
 **Exercicio 02 - Avançado**
 
-Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 1000 e faça a conversão do mesmo para algarismo numérico.
+Com estas instruções básicas, você deve fazer um código LIMPO que espere um número inteiro positivo entre 0 a 1000 e faça a conversão do mesmo para algarismo romano.
 
 
